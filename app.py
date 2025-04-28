@@ -9,7 +9,7 @@ from scipy.sparse import hstack
 
 # Connect to MySQL Database
 engine = sqlalchemy.create_engine(
-    'mysql+pymysql://admin:#Tej1234@database-2.cfyq26cwa8xv.ap-south-1.rds.amazonaws.com:3306/database-2'
+    'mysql+pymysql://admin:#Tej1234@database-2.c9s28gw4e6b0.eu-north-1.rds.amazonaws.com:3306/database-2'
 )
 
 # Load product data
